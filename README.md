@@ -2,7 +2,7 @@
 🔭 I’m currently working on building CTF challenges, penetration testing projects, and web applications<br><br>🤝 I’m looking to collaborate on open-source cybersecurity tools, CTF writeups, and security-focused web projects<br><br>💡 I’m looking for help with advanced exploitation techniques in pwn, reverse engineering, and real-world pentesting workflows<br><br>🌱 I’m currently learning advanced web security, cryptography, and German (A2 → B1)<br><br>💬 Ask me about ethical hacking, CTFs, web security (SQLi, XSS), and coding in Python/C/C++/JavaScript<br><br>⚡ Fun fact: I break things just to fix them stronger 🚀
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/md.yusouf_18/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousuf-md-2a7167311/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Osamayousuf)
